@@ -1,3 +1,4 @@
+
 import random  # Importa a biblioteca 'random' que permite gerar números aleatórios
 
 def adivinhe_o_numero():  # Define uma função chamada 'adivinhe_o_numero' que contém toda a lógica do jogo
